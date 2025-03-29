@@ -1,5 +1,5 @@
 # HR-Workforce-Analysis
-To Contribute to the success of a business by utilizing data analysis techniques, specially focusing on time series analysis to provide valuable insights and accurate sales analysis.
+This project focuses on extracting insights from a large dataset related to recruitment and placement activities in companies. The dataset provides valuable information that can be used by the HR department to gain knowledge about the recruitment process and market trends. The project involves several steps,including data scripting , data cleaning.
 
 ## Database Used
 - <a href ="https://github.com/VaishnaviKatiyar04/HR-Workforce-Analysis/blob/main/HR%20Dashboard.pbix"> HR-Workforce Analysis </a>
